@@ -176,7 +176,7 @@ Screens:
                                           DisplayMode: =DisplayMode.Disabled
                                           Fill: =RGBA(56, 96, 178, 1)
                                           Font: =Font.'Open Sans'
-                                          Height: =491
+                                          Height: =Parent.Height
                                           HoverBorderColor: =ColorFade(Self.BorderColor, 20%)
                                           HoverColor: =RGBA(255, 255, 255, 1)
                                           HoverFill: =ColorFade(RGBA(56, 96, 178, 1), -20%)
